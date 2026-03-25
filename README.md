@@ -47,7 +47,15 @@ Check extension
 
  
 Move the file to the correct folder
+
+
    ↓
+
+   
 Print moved file
- ↓
+
+
+   ↓
+
+ 
 End
